@@ -1,6 +1,6 @@
 # ExpNo 4 : Implement A* search algorithm for a Graph
-### Name: R Guruprasad
-### Register Number: 212222240033
+### Name: H Berjin Shabeck
+### Register Number: 212222240018
 ## AIM:
 <p>To ImplementA * Search algorithm for a Graph using Python 3.</p>
 
